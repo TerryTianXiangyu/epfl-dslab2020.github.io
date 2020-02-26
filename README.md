@@ -32,7 +32,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Reproducible data science
    - Git, Docker, Renku
 * slides (pdf):
-   - [lab](/slides/DSLab2020_week-2_lecture.pdf)
+   - [lab](https://github.com/epfl-dslab2020/epfl-dslab2020.github.io/raw/master/slides/DSLab2020_week-2_lecture.pdf)
 * exercises (EPFL access required)
    - [week 1 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-solutions-week-1/)
    - [week 2](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-2/)
